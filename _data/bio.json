@@ -1,72 +1,76 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Matheus Honorato",
+    "label": "Desenvolvedor",
+    "picture": "https://techfolios.github.io/template/images/photo.jpg",
+    "email": "matheuspaixaohonorato@gmail.com",
+    "phone": "+55 (38) 98845-6805",
+    "website": "https://matheushonorato.github.io",
+    "summary": "Acadêmico de sistemas de informação na Universidade Estadual de Montes Claros - Unimontes.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Montes Claros",
+      "countryCode": "BR",
+      "region": "Minas Gerais"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Matheus Honorato",
+        "url": "https://github.com/MatheusHonorato"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Matheus Honorato",
+        "url": "https://www.linkedin.com/in/matheus-paixao-honorato/"
       },
-      {
+      /**{
         "network": "twitter",
         "username": "mollymal",
         "url": "http://twitter.com/changeme"
-      },
+      },**/
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Matheus Honorato",
+        "url": "http://instagram.com/_matheus_paixao"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Inteligência artificial",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Lógica fuzzy",
+        "Redes neurais"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Ciência de dados",
       "keywords": [
+        "Mineração de dados",
+        "Estatística"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Desenvolvimento web",
       "keywords": [
+        "Front-end",
+        "Back-end"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Linguagens e frameworks",
       "level": "",
       "keywords": [
+        "PHP",
+        "Javascript",
+        "Python",
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
