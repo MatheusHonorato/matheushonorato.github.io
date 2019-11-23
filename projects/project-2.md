@@ -28,4 +28,3 @@ Sistema web que disponibiliza posts prontos para profissionais liberais utilizar
 
 Acesse: <a target="_blank" href="https://vocepublika.com.br">vocepublika.com.br</a>.
 
-
