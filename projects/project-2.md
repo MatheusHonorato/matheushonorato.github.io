@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/vocepublika.png
 title: Você publika
-permalink: https://vocepublika.com.br/
+permalink: projects/vocepublika
 # All dates must be YYYY-MM-DD format!
 date: 01/12/2019
 labels:
