@@ -26,6 +26,6 @@ summary: Sistema de posts prontos para profissionais liberais.
 
 Sistema web que disponibiliza posts prontos para profissionais liberais utilizarem no instagram. 
 
-Acesse: <a href="https://vocepublika.com.br">vocepublika.com.br</a>.
+Acesse: <a target="_blank" href="https://vocepublika.com.br">vocepublika.com.br</a>.
 
 
