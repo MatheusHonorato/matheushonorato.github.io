@@ -5,7 +5,7 @@ image: images/vocepublika.png
 title: Você publika
 permalink: projects/vocepublika
 # All dates must be YYYY-MM-DD format!
-date: 01/12/2019
+date: 2019-12-01
 labels:
   - HTML
   - CSS
