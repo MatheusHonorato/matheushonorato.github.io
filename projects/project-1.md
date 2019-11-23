@@ -21,5 +21,3 @@ Site estático/responsivo desenvolvido para venda de franquias odontocompany.
 
 Acesse: <a target="_blank" href="https://franquiaimbativel.com.br/">franquiaimbativel.com.br</a>.
 
-
-
