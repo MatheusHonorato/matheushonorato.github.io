@@ -24,3 +24,5 @@ summary: Sistema de posts prontos para profissionais liberais.
 
 <img class="ui medium right floated rounded image" src="../images/vocepublika.png">
 
+Sistema web que disponibiliza acesso a uma base de dados de artes para o instagram. 
+
