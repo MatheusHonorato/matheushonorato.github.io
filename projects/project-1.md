@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://raw.githubusercontent.com/MatheusHonorato/franquia-imbativel/master/screenshot-franquia-imbativel.png?token=AEV3GXHQU4Z3DPRX5T2OV2K53FB6Y
+image: images/franquia-imbativel.png
 title: Franquia imbativel
 permalink: projects/franquiaimbativel
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ labels:
 summary: Site desenvolvido para venda de franquias odontocompany.
 ---
 
-<img class="ui medium right floated rounded image" src="https://raw.githubusercontent.com/MatheusHonorato/franquia-imbativel/master/screenshot-franquia-imbativel.png?token=AEV3GXHQU4Z3DPRX5T2OV2K53FB6Y">
+<img class="ui medium right floated rounded image" src="../images/franquia-imbativel.png">
 
 Site estático/responsivo desenvolvido para venda de franquias odontocompany. 
 
