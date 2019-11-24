@@ -12,7 +12,7 @@ labels:
   - Javascript
   - Jquery
   - Bootstrap 
-summary: Site desenvolvido evento conferência filhas do rei.
+summary: Site desenvolvido para evento conferência filhas do rei.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/conferencia-filhas-do-rei.png">
