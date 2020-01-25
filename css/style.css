@@ -43,6 +43,10 @@ a:hover {
     color: #3A51D5;
 }
 
+a i:hover {
+    color: #3A51D5;
+}
+
 i {
     color: #000;
     font-size: 2em;
