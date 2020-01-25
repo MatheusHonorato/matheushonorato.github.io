@@ -38,6 +38,11 @@ ul {
 a {
     text-decoration: none;
 }
+
+a:hover {
+    color: #3A51D5;
+}
+
 i {
     color: #000;
     font-size: 2em;
