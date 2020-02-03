@@ -4,6 +4,8 @@ html, body {
     text-align: center;
     height: 100%;
     font-family: 'Heebo', sans-serif;
+    color: #fff;
+    background-color: #1E2333;
 }
 #about {
     position: relative;
@@ -37,7 +39,7 @@ ul {
 }
 a {
     text-decoration: none;
-    color: #000;
+    color: #fff;
 }
 
 a:hover {
