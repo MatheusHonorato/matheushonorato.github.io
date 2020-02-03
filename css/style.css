@@ -51,7 +51,7 @@ a i:hover {
 }
 
 i {
-    color: #C9F2FF;
+    color: linear-gradient(45deg, #96E6FF 0%, #96A7FF 81%);
     font-size: 2em;
     margin: 0.5em;
 }
