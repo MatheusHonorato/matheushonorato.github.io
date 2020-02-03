@@ -55,3 +55,7 @@ i {
     font-size: 2em;
     margin: 0.5em;
 }
+
+img {
+    border-radius: 100%;
+}
