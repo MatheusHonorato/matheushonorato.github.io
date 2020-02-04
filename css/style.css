@@ -43,15 +43,15 @@ a {
 }
 
 a:hover {
-    color: #2a99d8;
+    color: #96E6FF;
 }
 
 a i:hover {
-    color: #2a99d8;
+    color: #96E6FF;
 }
 
 i {
-    color: #96E6FF;
+    color: #2a99d8;
     font-size: 2em;
     margin: 0.5em;
 }
